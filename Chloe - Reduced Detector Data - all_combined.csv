@@ -1,0 +1,918 @@
+DetectorID,Location,Latitude,Longitude,Set
+101_1_35,I-15 NB Sahara On-Ramp between Sahara Avenue and I-15 NB,36144341,-115169617,UNLV
+103_1_40,I-15 SB Sahara WB Off-Ramp between I-15 SB and Sahara Avenue,36147755,-115169441,UNLV
+103_2_40,I-15 SB Sahara WB Off-Ramp between I-15 SB and Sahara Avenue,36145626,-115171677,UNLV
+109_1_37,I-15 SB Boulder Off-Ramp between Sahara Avenue and I-15 SB,36142616,-115174263,UNLV
+118_1_541,I-15 SB MLK/Charleston Off-Ramp between I-15 SB and Martin Luther King Boulevard,36161842,-115161362,UNLV
+125_2_49,I-15 NB to US-95 NB Ramp between I-15 NB and US-95 NB,36169209,-115157127,UNLV
+126_1_49,I-15 NB MLK Blvd Off-Ramp between I-15 NB and Martin Luther King Boulevard,36173618,-115156914,UNLV
+126_2_80,I-15 NB MLK Blvd Off-Ramp between I-15 NB and Martin Luther King Boulevard,36174770,-115155373,UNLV
+127_1_531,I-15 NB to US-95 NB Ramp between I-15 NB and US-95 NB,36173687,-115165710,UNLV
+138_2_55,I-15 NB between I-15 NB Wash./D-Street Off-Ramp and I-15 NB Washington/D-St On-Ramp,36182571,-115143311,UNLV
+141_2_55,I-15 NB Washington/D-St On-Ramp between Washington Avenue and I-15 NB,36181763,-115142799,UNLV
+142_1_55,I-15 SB between I-15 SB Washington Off-Ramp and I-15 SB Washington On-Ramp,36182632,-115145798,UNLV
+144_1_54,I-15 SB Washington On-Ramp between D Street and I-15 SB,36180584,-115147949,UNLV
+15_1_6,I-215 EB to I-15 SB Ramp between CC-215 EB and I-15 SB,36064865,-115188370,UNLV
+15_2_6,I-215 EB to I-15 SB Ramp between CC-215 EB and I-15 SB,36063759,-115185806,UNLV
+154_2_240,I-15 NB  Lake Mead EB On-Ramp between Lake Mead Boulevard and I-15 NB,36197895,-115135925,UNLV
+157_1_240,I-15 SB  Lake Mead Off-Ramp between I-15 SB and Lake Mead Boulevard,36198200,-115138496,UNLV
+158_2_74,I-15 SB  Lake Mead WB On-Ramp between Lake Mead Boulevard and I-15 SB,36196987,-115139450,UNLV
+160_1_241,I-15 NB between I-15 NB  Lake Mead On-Ramp and Cartier Avenue,36204491,-115132385,UNLV
+162_2_197,US-95 SB between US-95 SB Rancho Off-Ramp and US-95 SB Rancho On-Ramp,36174603,-115172432,UNLV
+167_1_531,US-95 NB between I-15 NB to US-95 NB Ramp and US-95 NB Rancho Off-Ramp,36176277,-115163689,UNLV
+167_2_210,US-95 NB between I-15 NB to US-95 NB Ramp and US-95 NB Rancho Off-Ramp,36176769,-115169472,UNLV
+169_3_210,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB,36173851,-115165710,UNLV
+171_3_51,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB,36169277,-115159813,UNLV
+196_2_69,I-515 SB LV Blvd On-Ramp between Las Vegas Boulevard and I-515 SB,36171738,-115137131,UNLV
+199_1_70,I-515 NB LV Blvd On-Ramp between Las Vegas Boulevard and I-515 NB,36175346,-115139046,UNLV
+201_1_39,I-515 NB Casino Ctr On-Ramp between Casino Center Boulevard and I-515 NB,36176243,-115142738,UNLV
+206_1_64,I-515 SB Eastern On-Ramp between Eastern Avenue and I-515 SB,36166504,-115114067,UNLV
+209_1_65,I-515 NB Eastern On-Ramp between Eastern Avenue and I-515 NB,36169464,-115118057,UNLV
+212_2_364,I-515 SB between I-515 SB Charleston Off-Ramp and I-515 SB Charleston On-Ramp,36149048,-115091827,UNLV
+212_4_363,I-515 SB between I-515 SB Charleston Off-Ramp and I-515 SB Charleston On-Ramp,36139385,-115091408,UNLV
+213_1_59,I-515 SB Charleston Off-Ramp between I-515 SB and Charleston Boulevard,36161819,-115092949,UNLV
+215_2_362,I-515 NB between I-515 NB Charleston Off-Ramp and I-515 NB Charleston On-Ramp,36142105,-115090027,UNLV
+215_4_366,I-515 NB between I-515 NB Charleston Off-Ramp and I-515 NB Charleston On-Ramp,36155361,-115090256,UNLV
+216_1_365,I-515 NB Charleston Off-Ramp between I-515 NB and Charleston Boulevard,36156006,-115089897,UNLV
+217_2_60,I-515 NB Charleston On-Ramp between Charleston Boulevard and I-515 NB,36162399,-115090721,UNLV
+218_2_360,I-515 SB between I-515 SB Charleston On-Ramp and I-15 SB Boulder Off-Ramp,36127853,-115088669,UNLV
+218_4_173,I-515 SB between I-515 SB Charleston On-Ramp and I-15 SB Boulder Off-Ramp,36118610,-115084091,UNLV
+219_3_360,I-515 NB between I-515 NB Boulder Hwy Off-Ramp and I-515 NB Charleston Off-Ramp,36127701,-115086197,UNLV
+219_4_361,I-515 NB between I-515 NB Boulder Hwy Off-Ramp and I-515 NB Charleston Off-Ramp,36132233,-115088356,UNLV
+220_2_286,I-515 SB between I-15 SB Boulder Off-Ramp and I-515 SB Boulder Hwy Off-Ramp,36103970,-115082916,UNLV
+221_1_279,I-515 SB Boulder Hwy Off-Ramp between I-515 SB and Boulder Highway,36140057,-115091942,UNLV
+221_2_279,I-515 SB Boulder Hwy Off-Ramp between I-515 SB and Boulder Highway,36138580,-115092308,UNLV
+222_1_172,I-515 NB between Desert Inn Road and Boulder Highway,36103977,-115081161,UNLV
+23_1_8,I-215 WB/I-15 NB between CC-215 WB and I-15 NB,36065910,-115179008,UNLV
+23_2_8,I-215 WB/I-15 NB between CC-215 WB and I-15 NB,36067322,-115179626,UNLV
+25_1_547,CC-215 WB between Gilespie Street and Las Vegas Boulevard,36064232,-115159561,UNLV
+30_2_8,I-215 EB to I-15 NB Ramp between CC-215 EB and I-15 NB,36061832,-115179199,UNLV
+360_1_171,I-515 SB between Viking Road and Boulder Highway,36097572,-115080788,UNLV
+360_2_288,I-515 SB between Viking Road and Boulder Highway,36092979,-115075981,UNLV
+360_3_165,I-515 SB between Viking Road and Boulder Highway,36089886,-115071121,UNLV
+361_1_166,I-515 SB between Dell Santos Drive and Viking Road,36087826,-115066620,UNLV
+361_2_293,I-515 SB between Dell Santos Drive and Viking Road,36086498,-115060921,UNLV
+361_3_290,I-515 SB between Dell Santos Drive and Viking Road,36084278,-115054420,UNLV
+362_1_132,I-515 SB between Mountain Vista Street and Dell Santos Drive,36081184,-115048042,UNLV
+362_2_131,I-515 SB between Mountain Vista Street and Dell Santos Drive,36077934,-115043030,UNLV
+362_3_129,I-515 SB between Mountain Vista Street and Dell Santos Drive,36073479,-115039276,UNLV
+363_2_161,I-515 SB between Denning Street and Mountain Vista Street,36065548,-115034241,UNLV
+363_3_292,I-515 SB between Denning Street and Mountain Vista Street,36086418,-115060532,UNLV
+364_2_127,I-515 SB between Stephanie Street and Denning Street,36053440,-115027077,UNLV
+364_3_126,I-515 SB between Stephanie Street and Denning Street,36048111,-115024529,UNLV
+365_1_107,I-515 SB between Sunset Road and Stephanie Street,36076054,-115041451,UNLV
+366_1_103,I-515 SB between Warm Springs Road and Sunset Road,36032513,-115015388,UNLV
+367_1_367,I-515 SB between American Pacific Drive and Warm Springs Road,36028099,-115010185,UNLV
+367_2_368,I-515 SB between American Pacific Drive and Warm Springs Road,36025566,-115007309,UNLV
+367_3_371,I-515 SB between American Pacific Drive and Warm Springs Road,36022102,-115003250,UNLV
+368_1_372,I-515 SB between Waterwheel Falls Drive and American Pacific Drive,36019341,-115000038,UNLV
+368_2_379,I-515 SB between Waterwheel Falls Drive and American Pacific Drive,36016884,-114996819,UNLV
+368_3_381,I-515 SB between Waterwheel Falls Drive and American Pacific Drive,36013451,-114992943,UNLV
+369_1_382,I-515 SB between Long Acres Drive and Waterwheel Falls Drive,36024338,-115006241,UNLV
+369_2_385,I-515 SB between Long Acres Drive and Waterwheel Falls Drive,36021805,-115003365,UNLV
+370_2_388,I-515 SB between Appian Drive and Long Acres Drive,36004002,-114984612,UNLV
+370_3_391,I-515 SB between Appian Drive and Long Acres Drive,36001171,-114979691,UNLV
+371_1_392,I-515 SB between College Drive and Appian Drive,35999531,-114973412,UNLV
+371_2_393,I-515 SB between College Drive and Appian Drive,35999123,-114964691,UNLV
+371_3_397,I-515 SB between College Drive and Appian Drive,35999153,-114954269,UNLV
+371_4_402,I-515 SB between College Drive and Appian Drive,35998596,-114946289,UNLV
+372_1_404,I-515 SB between Bitterroot Street and College Drive,35996883,-114940163,UNLV
+372_2_405,I-515 SB between Bitterroot Street and College Drive,35994881,-114935150,UNLV
+372_3_408,I-515 SB between Bitterroot Street and College Drive,35992817,-114931015,UNLV
+374_2_169,I-515 NB between Boulder Highway and Viking Road,36094456,-115075203,UNLV
+374_3_287,I-515 NB between Boulder Highway and Viking Road,36098076,-115079071,UNLV
+375_2_164,I-515 NB between Viking Road and Dell Santos Drive,36088257,-115059525,UNLV
+375_3_166,I-515 NB between Viking Road and Dell Santos Drive,36089645,-115066162,UNLV
+376_1_134,I-515 NB between Dell Santos Drive and Mountain Vista Street,36074402,-115037216,UNLV
+376_3_291,I-515 NB between Dell Santos Drive and Mountain Vista Street,36083057,-115047173,UNLV
+377_1_162,I-515 NB between Mountain Vista Street and Denning Street,36065586,-115031738,UNLV
+378_1_301,I-515 NB between Denning Street and Stephanie Street,36048882,-115022644,UNLV
+378_2_299,I-515 NB between Denning Street and Stephanie Street,36054028,-115024994,UNLV
+378_3_298,I-515 NB between Denning Street and Stephanie Street,36058208,-115027351,UNLV
+378_4_130,I-515 NB between Denning Street and Stephanie Street,36061897,-115029564,UNLV
+379_1_109,I-515 NB between Stephanie Street and Sunset Road,36040874,-115019302,UNLV
+379_2_302,I-515 NB between Stephanie Street and Sunset Road,36044582,-115020988,UNLV
+38_1_91,I-15 NB to I-215 WB Ramp between I-15 NB and CC-215 WB,36059437,-115178856,UNLV
+380_2_105,I-515 NB between Sunset Road and Warm Springs Road,36037346,-115016899,UNLV
+381_3_102,I-515 NB between Warm Springs Road and American Pacific Drive,36032516,-115011650,UNLV
+382_1_373,I-515 NB between American Pacific Drive and Waterwheel Falls Drive,36023708,-115001656,UNLV
+382_2_370,I-515 NB between American Pacific Drive and Waterwheel Falls Drive,36026310,-115004547,UNLV
+382_3_369,I-515 NB between American Pacific Drive and Waterwheel Falls Drive,36028038,-115006569,UNLV
+384_1_384,I-515 NB between Long Acres Drive and Appian Drive,36002712,-114978539,UNLV
+384_2_383,I-515 NB between Long Acres Drive and Appian Drive,36004982,-114982529,UNLV
+385_1_390,I-515 NB between Appian Drive and College Drive,36000961,-114963165,UNLV
+385_2_389,I-515 NB between Appian Drive and College Drive,36000900,-114967476,UNLV
+385_3_387,I-515 NB between Appian Drive and College Drive,36001297,-114972900,UNLV
+386_1_399,I-515 NB between College Drive and Bitterroot Street,35999386,-114942390,UNLV
+386_2_398,I-515 NB between College Drive and Bitterroot Street,36000839,-114949318,UNLV
+386_3_396,I-515 NB between College Drive and Bitterroot Street,36000996,-114954262,UNLV
+386_4_395,I-515 NB between College Drive and Bitterroot Street,36000988,-114958450,UNLV
+387_1_407,I-515 NB between Bitterroot Street and Wagon Wheel Drive,35991123,-114926819,UNLV
+387_2_406,I-515 NB between Bitterroot Street and Wagon Wheel Drive,35993885,-114930038,UNLV
+387_4_400,I-515 NB between Bitterroot Street and Wagon Wheel Drive,35997265,-114936111,UNLV
+389_1_248,I-15 SB between Alexander Road and Colton Avenue,36231594,-115113953,UNLV
+39_1_8,I-15 NB between I-215 EB to I-15 NB Ramp and I-215 WB to I-15 NB Ramp,36063324,-115179810,UNLV
+391_1_415,I-15 SB between Smiley Road and Craig Road,36249130,-115092682,UNLV
+391_3_410,I-15 SB between Smiley Road and Craig Road,36242081,-115101257,UNLV
+392_1_421,I-15 SB between Ann Road and Smiley Road,36257927,-115081650,UNLV
+392_2_420,I-15 SB between Ann Road and Smiley Road,36255314,-115084908,UNLV
+392_3_416,I-15 SB between Ann Road and Smiley Road,36252354,-115088608,UNLV
+393_1_432,I-15 SB between Clark County 215 and Ann Road,36269493,-115064095,UNLV
+393_2_429,I-15 SB between Clark County 215 and Ann Road,36267639,-115068398,UNLV
+393_3_428,I-15 SB between Clark County 215 and Ann Road,36264824,-115073067,UNLV
+393_4_426,I-15 SB between Clark County 215 and Ann Road,36261211,-115077705,UNLV
+394_1_434,I-15 SB between Centennial Parkway and Clark County 215,36275742,-115047493,UNLV
+394_2_433,I-15 SB between Centennial Parkway and Clark County 215,36272144,-115057076,UNLV
+395_1_445,I-15 SB between Speedway Boulevard and Centennial Parkway,36283051,-115027939,UNLV
+395_2_442,I-15 SB between Speedway Boulevard and Centennial Parkway,36281700,-115031487,UNLV
+395_3_441,I-15 SB between Speedway Boulevard and Centennial Parkway,36280075,-115035942,UNLV
+395_4_440,I-15 SB between Speedway Boulevard and Centennial Parkway,36278439,-115040359,UNLV
+398_3_411,I-15 NB between Alexander Road and Craig Road,36240891,-115099449,UNLV
+399_1_413,I-15 NB between Craig Road and Smiley Road,36244354,-115095238,UNLV
+399_2_414,I-15 NB between Craig Road and Smiley Road,36247791,-115091049,UNLV
+399_3_417,I-15 NB between Craig Road and Smiley Road,36251041,-115087006,UNLV
+399_4_418,I-15 NB between Craig Road and Smiley Road,36254612,-115082558,UNLV
+400_1_423,I-15 NB between Smiley Road and Ann Road,36258663,-115077408,UNLV
+400_2_425,I-15 NB between Smiley Road and Ann Road,36262596,-115072289,UNLV
+400_3_430,I-15 NB between Smiley Road and Ann Road,36265778,-115067024,UNLV
+400_4_431,I-15 NB between Smiley Road and Ann Road,36267986,-115062225,UNLV
+401_1_435,I-15 NB between Ann Road and Clark County 215,36269333,-115058411,UNLV
+401_2_437,I-15 NB between Ann Road and Clark County 215,36270817,-115054756,UNLV
+402_1_438,I-15 NB between Clark County 215 and Centennial Parkway,36273136,-115048553,UNLV
+402_2_439,I-15 NB between Clark County 215 and Centennial Parkway,36275883,-115040825,UNLV
+402_3_443,I-15 NB between Clark County 215 and Centennial Parkway,36278515,-115033981,UNLV
+402_4_444,I-15 NB between Clark County 215 and Centennial Parkway,36280880,-115027916,UNLV
+403_1_447,I-15 NB between Centennial Parkway and Speedway Boulevard,36283272,-115021881,UNLV
+403_2_533,I-15 NB between Centennial Parkway and Speedway Boulevard,36285534,-115015923,UNLV
+403_4_535,I-15 NB between Centennial Parkway and Speedway Boulevard,36302502,-114972603,UNLV
+403_5_536,I-15 NB between Centennial Parkway and Speedway Boulevard,36309502,-114954399,UNLV
+407_2_233,US-95 SB between Lake Mead Boulevard and Half Moon Bay,36200954,-115245560,UNLV
+409_3_409,US-95 SB between Cheyenne Avenue and Craig Road,36224815,-115247787,UNLV
+412_1_518,US-95 SB between Ann Road and Clark County 215,36273361,-115264442,UNLV
+412_2_517,US-95 SB between Ann Road and Clark County 215,36269363,-115260788,UNLV
+412_3_515,US-95 SB between Ann Road and Clark County 215,36265221,-115257004,UNLV
+420_2_160,US-95 NB between Ann Road and Rancho Drive,36258560,-115248100,UNLV
+421_1_505,US-95 NB between Clark County 215 and Ann Road,36266251,-115254883,UNLV
+421_2_506,US-95 NB between Clark County 215 and Ann Road,36270187,-115258492,UNLV
+421_3_507,US-95 NB between Clark County 215 and Ann Road,36273968,-115261932,UNLV
+422_3_101,I-15 SB between Roban Street and Saint Rose Parkway,35951103,-115182327,UNLV
+429_2_100,I-15 SB between 5.71 Miles south of Sloan Road and 4.71 Miles south of Sloan Road,35869686,-115245781,UNLV
+43_1_86,I-15 SB to I-215 WB/EB Ramp between I-15 SB and CC-215 WB,36068642,-115182701,UNLV
+435_2_99,I-15 SB between 11.71 Miles south of Sloan Road and 10.71 Miles south of Sloan Road,35802666,-115313507,UNLV
+437_1_101,I-15 NB between Saint Rose Parkway and Roban Street,35938343,-115186790,UNLV
+437_2_328,I-15 NB between Saint Rose Parkway and Roban Street,35954544,-115181030,UNLV
+437_3_327,I-15 NB between Saint Rose Parkway and Roban Street,35960361,-115179787,UNLV
+44_1_86,I-15 SB to I-215 EB/WB Ramp between I-15 SB and CC-215 EB,36067554,-115182549,UNLV
+44_2_89,I-15 SB to I-215 EB/WB Ramp between I-15 SB and CC-215 EB,36064659,-115183319,UNLV
+444_2_100,I-15 NB between 4.71 Miles south of Sloan Road and 5.71 Miles south of Sloan Road,35868797,-115243790,UNLV
+452_1_508,US-95 NB between 11.71 Miles south of Sloan Road and 12.71 Miles south of Sloan Road,36276402,-115265198,UNLV
+453_1_509,US-95 NB between CC-215 EB and Decatur Road,36281200,-115269600,UNLV
+453_2_510,US-95 NB between CC-215 EB and Decatur Road,36285400,-115273598,UNLV
+453_3_511,US-95 NB between CC-215 EB and Decatur Road,36289101,-115276901,UNLV
+454_1_512,US-95 NB between CC-215 EB and Decatur Road,36292801,-115280403,UNLV
+454_2_513,US-95 NB between CC-215 EB and Decatur Road,36296200,-115283501,UNLV
+456_1_10,I 15 Exp NB between CC-215 WB and Patrick Lane,36073364,-115180061,UNLV
+456_2_11,I 15 Exp NB between Patrick Lane and Oquendo,36080643,-115180450,UNLV
+456_3_13,I 15 Exp NB between Oquendo and Russell Road,36084400,-115180534,UNLV
+457_1_14,I 15 Exp NB between Russell Road and I-15 NB Russell On-Ramp,36089886,-115180405,UNLV
+457_2_16,I 15 Exp NB between I-15 NB Russell On-Ramp and Hacienda Avenue,36091362,-115180428,UNLV
+457_3_52,I 15 Exp NB between Hacienda Avenue and Tropicana Avenue,36097267,-115180527,UNLV
+458_1_18,I 15 Exp NB between Tropicana Avenue and Tompkins,36102844,-115180237,UNLV
+458_2_21,I 15 Exp NB between Tompkins and Harmon Ave,36106339,-115180428,UNLV
+458_3_23,I 15 Exp NB between Harmon Ave and Flamingo Road,36111126,-115180397,UNLV
+459_1_22,I 15 Exp NB between Flamingo Road and Twain,36117657,-115180321,UNLV
+459_2_28,I 15 Exp NB between Twain and Highland,36122204,-115180405,UNLV
+459_3_28,I 15 Exp NB between Highland and Spring Mountain Road,36124878,-115180420,UNLV
+461_3_32,I 15 Exp SB between Meade and Desert Inn Road,36133469,-115180191,UNLV
+461_4_31,I 15 Exp SB between Desert Inn Road and Spring Mountain Road,36127705,-115180954,UNLV
+462_2_27,I 15 Exp SB between Highland and Twain,36122009,-115181068,UNLV
+462_3_26,I 15 Exp SB between Twain and Flamingo Road,36116669,-115181114,UNLV
+463_1_24,I 15 Exp SB between Flamingo Road and Harmon Ave,36110958,-115180923,UNLV
+463_2_20,I 15 Exp SB between Harmon Ave and Tompkins,36106216,-115180901,UNLV
+463_3_19,I 15 Exp SB between Tompkins and Tropicana Avenue,36102570,-115181007,UNLV
+464_1_18,I 15 Exp SB between Tropicana Avenue and Hacienda Avenue,36098034,-115181030,UNLV
+464_2_17,I 15 Exp SB between Hacienda Avenue and I-15 SB Russell Off-Ramp,36091545,-115181038,UNLV
+464_3_15,I 15 Exp SB between I-15 SB Russell Off-Ramp and Russell Road,36087582,-115181007,UNLV
+465_1_12,I 15 Exp SB between Russell Road and Oquendo,36083778,-115181114,UNLV
+465_2_82,I 15 Exp SB between Oquendo and Patrick Lane,36080193,-115181053,UNLV
+465_3_83,I 15 Exp SB between Patrick Lane and CC-215 WB,36071934,-115180962,UNLV
+465_4_88,I 15 Exp SB between Patrick Lane and CC-215 WB,36077000,-115199997,UNLV
+47_1_92,I-15 NB to I-215 EB Ramp between I-15 NB and CC-215 EB,36061970,-115176407,UNLV
+470_2_244,I-15 SB Cheyenne Ave On-Ramp between Cheyenne Avenue and I-15 SB,36217262,-115125893,UNLV
+471_2_246,I-15 NB Cheyenne Ave On-Ramp between Cheyenne Avenue and I-15 NB,36218109,-115121925,UNLV
+472_2_250,I-15 SB Craig EB On-Ramp between Craig Road and I-15 SB,36238400,-115106155,UNLV
+473_1_252,I-15 SB Craig WB On-Ramp between Craig Road and I-15 SB,36241184,-115102730,UNLV
+494_1_544,AC SB to 215 WB between AC SB and CC-215 WB,36065460,-115159302,UNLV
+495_1_263,215 WB to AC NB between CC-215 WB and AC NB,36061890,-115143318,UNLV
+495_2_266,215 WB to AC NB between AC SB and CC-215 WB,35650002,-115650002,UNLV
+496_1_543,215 EB to AC NB between CC-215 EB and AC NB,36063026,-115158539,UNLV
+496_2_266,215 EB to AC NB between CC-215 EB and AC NB,35759998,-115760002,UNLV
+497_1_545,AC SB to 215 EB between AC SB and CC-215 EB,36063725,-115151222,UNLV
+499_2_542,AC SB between Sunset Road and Pilot SB,36068840,-115147896,UNLV
+50_2_12,I-15 NB Russell Off-Ramp between I-15 NB and Russell Road,36082924,-115179337,UNLV
+512_1_125,I-215 EB to I-515 NB OnRamp between CC-215 EB and I-515 NB,36039043,-115020790,UNLV
+513_1_106,I-515 SB to I-215 WB OnRamp between I-515 SB and CC-215 WB,36037338,-115025665,UNLV
+514_1_140,I 15 Exp NB between Serene Avenue and Silverado Ranch,36057400,-115181099,UNLV
+514_2_158,I 15 Exp NB between Serene Avenue and Silverado Ranch,36016201,-115182098,UNLV
+515_1_152,I 15 Exp NB between Pebble and Serene Avenue,36027000,-115182198,UNLV
+515_2_154,I 15 Exp NB between Wigwam Avenue and Pebble,36029900,-115182297,UNLV
+515_3_150,I 15 Exp NB between Blue Diamond Road and Wigwam Avenue,36048801,-115179100,UNLV
+516_1_151,I 15 Exp NB between Blue Diamond Road and Wigwam Avenue,36042900,-115182404,UNLV
+516_2_149,I 15 Exp NB between Robindale Road and Blue Diamond Road,36046902,-115181099,UNLV
+516_3_141,I 15 Exp NB between Warm Springs Road and Robindale Road,36052399,-115181297,UNLV
+517_3_9,I 15 Exp NB between Clark County 215 and Warm Springs Road,36061901,-115181099,UNLV
+518_1_90,I 15 Exp SB between Clark County 215 and Warm Springs Road,36060699,-115180397,UNLV
+518_2_94,I 15 Exp SB between Warm Springs Road and Robindale Road,36055698,-115180397,UNLV
+518_3_142,I 15 Exp SB between Warm Springs Road and Robindale Road,36051201,-115180199,UNLV
+519_1_145,I 15 Exp SB between Robindale Road and Blue Diamond Road,36045898,-115180496,UNLV
+519_2_144,I 15 Exp SB between Blue Diamond Road and Wigwam Avenue,36040798,-115180199,UNLV
+520_1_79,I 15 Exp SB between Blue Diamond Road and Wigwam Avenue,36038200,-115179298,UNLV
+520_2_155,I 15 Exp SB between Wigwam Avenue and Pebble,36029499,-115179001,UNLV
+520_3_153,I 15 Exp SB between Pebble and Serene Avenue,36022099,-115179298,UNLV
+521_1_156,I 15 Exp SB between Pebble and Serene Avenue,36021400,-115179497,UNLV
+524_1_85,I-15 NB CD between Oquendo and Sunset Road,36071602,-115180397,UNLV
+524_3_8,I-15 NB CD between Clark County 215 and Warm Springs Road,36061901,-115180397,UNLV
+53_2_15,I-15 NB Russell On-Ramp between Russell Road and I-15 NB,36089222,-115179680,UNLV
+531_1_12,Frank Sinatra Drive between I-15 SB and Frank Sinatra Drive,36082653,-115179451,UNLV
+536_1_100,I-15 NB Jean Off Ramp between I-15 NB and Jean,35779224,-115327957,UNLV
+537_1_100,I-15 NB Jean On Ramp between Jean and I-15 NB,35781540,-115326256,UNLV
+538_1_101,I-15 NB Solan On Ramp between Solan and I-15 NB,35931583,-115191582,UNLV
+54_1_14,I-15 SB Russell Off-Ramp between I-15 SB and Russell Road,36089275,-115181717,UNLV
+54_2_14,I-15 SB Russell Off-Ramp between I-15 SB and Russell Road,36087132,-115182068,UNLV
+540_1_100,I-15 SB Jean Off Ramp between I-15 SB and Jean,35782898,-115328957,UNLV
+541_1_100,I-15 SB Jean On Ramp between Jean and I-15 SB,35779949,-115330933,UNLV
+542_1_99,I-15 SB Primm Off Ramp between I-15 SB and Primm,35614304,-115389191,UNLV
+543_1_99,I-15 SB Primm On Ramp between Primm and I-15 SB,35610794,-115390450,UNLV
+544_1_99,I-15 NB Primm Off Ramp between I-15 NB and Primm,35610809,-115389076,UNLV
+545_1_99,I-15 NB Primm On Ramp between Primm and I-15 NB,35614708,-115387756,UNLV
+546_1_406,I-515 NB WagonWheel Off Ramp between I-515 NB and WagonWheel,35994858,-114931610,UNLV
+547_1_400,I-515 NB WagonWheel On Ramp between WagonWheel and I-515 NB,35996788,-114935928,UNLV
+548_1_376,I-515 NB Horizon Off Ramp between I-515 NB and Horizon,36012104,-114988670,UNLV
+548_2_401,I-515 NB Horizon Off Ramp between I-515 NB and Horizon,35997101,-114935699,UNLV
+55_1_13,I-15 SB Russell On-Ramp between Russell Road and I-15 SB,36084297,-115181992,UNLV
+550_1_378,I-515 SB Horizon Off Ramp between I-515 SB and Horizon,36010735,-114990494,UNLV
+551_1_380,I-515 SB Horizon On Ramp between Horizon and I-515 SB,36011917,-114991295,UNLV
+552_1_402,I-515 SB NV Stateline Off Ramp between I-515 SB and NVStateline,35997757,-114940475,UNLV
+553_1_403,I-515 SB Boulder Hwy On Ramp between Boulder Hwy and I-515 SB,35998161,-114941338,UNLV
+555_1_405,I-515 SB WagonWheel On Ramp between WagonWheel and I-515 SB,35995720,-114935883,UNLV
+557_1_128,I-515 NB Sunset Off Ramp between I-515 NB and Blue Diamond Road,36063099,-115029602,UNLV
+562_1_170,I-515 SB Tropicana Off Ramp between Blue Diamond Road and I-515 SB,36101601,-115080597,UNLV
+563_1_133,I-515 SB Galleria Off Ramp between I-515 SB and Blue Diamond Road,36078701,-115044296,UNLV
+568_1_104,I-215 WB to I-515 SB ramp between CC-215 WB and I-515 SB,36032001,-115014297,UNLV
+570_1_108,I-515 SB to Lake Mead Dr between I-515 SB and Frank Sinatra Drive,36039101,-115021698,UNLV
+572_1_391,I-515 SB College Off Ramp between I-515 SB and College Drive,35999699,-114967598,UNLV
+574_1_394,I-515 NB College Off Ramp between I-515 NB and College Drive,36000198,-114959297,UNLV
+575_2_535,I-15 SB between N LV Hwy and Craig Rd,36287144,-115017410,UNLV
+575_3_540,I-15 SB between N LV Hwy and Craig Rd,36284855,-115023399,UNLV
+575_4_533,I-15 SB between N LV Hwy and Craig Rd,36284855,-115023399,UNLV
+575_5_446,I-15 SB between N LV Hwy and Craig Rd,36284855,-115023399,UNLV
+576_1_412,I-15 NB Craig On Ramp between I-15 NB and Craig Rd,36241993,-115099068,UNLV
+577_1_424,I-15 NB Lamb On Ramp between Lamb and I-15 NB,36257263,-115078896,UNLV
+578_1_419,I-15 NB Lamb Off Ramp between I-15 NB and Lamb,36259975,-115076813,UNLV
+579_1_437,I-15 NB 215 CC On Ramp between 215 CC and I-15 NB,36270592,-115054153,UNLV
+580_1_436,I-15 NB 215 CC Off Ramp between I-15 NB and 215 CC,36269146,-115057953,UNLV
+581_1_444,I-15 NB Speedway On Ramp between Speedway and I-15 NB,36283501,-115022186,UNLV
+582_1_447,I-15 NB Speedway Off Ramp between I-15 NB and Speedway,36281265,-115028099,UNLV
+583_1_446,I-15 SB Speedway On Ramp between Speedway and I-15 SB,36281582,-115030205,UNLV
+584_1_445,I-15 SB Speedway Off Ramp between I-15 SB and Speedway,36284187,-115023392,UNLV
+585_1_432,I-15 SB 215 CC On Ramp between 215 CC and I-15 SB,36272083,-115058853,UNLV
+586_1_434,I-15 SB 215 CC Off Ramp between I-15 SB and 215 CC,36273685,-115054695,UNLV
+587_1_427,I-15 SB Lamb On Ramp between Lamb and I-15 SB,36262436,-115075394,UNLV
+588_1_422,I-15 SB Lamb Off Ramp between I-15 SB and Lamb,36260540,-115077850,UNLV
+589_1_410,I-15 SB Craig Off Ramp between I-15 SB and Craig Rd,36242443,-115100624,UNLV
+61_1_18,I-15 NB Tropicana On-Ramp between I-15 NB and Tropicana Avenue,36099812,-115179550,UNLV
+61_2_18,I-15 NB Tropicana On-Ramp between I-15 NB and Tropicana Avenue,36099487,-115179504,UNLV
+61_3_18,I-15 NB Tropicana On-Ramp between I-15 NB and Tropicana Avenue,36100708,-115179634,UNLV
+615_1_465,I-215 SB Sunset OffRamp between Cheyenne Avenue and Alexander Road,36071682,-115290337,UNLV
+616_1_467,I-215 SB Russell OnRamp between Alexander Road and Cheyenne Avenue,36083950,-115290733,UNLV
+617_1_469,I-215 SB Russel OffRamp between Cheyenne Avenue and Lake Mead Boulevard,36086491,-115290779,UNLV
+618_1_471,I-215 SB Tropicana OnRamp between Lake Mead Boulevard and I-515 SB College Off Ramp,36098869,-115293922,UNLV
+619_1_473,I-215 SB Tropicana OffRamp between I-515 SB College Off Ramp and I-515 SB College On Ramp,36101479,-115295311,UNLV
+620_1_475,I-215 SB Flamingo OnRamp between I-515 SB College On Ramp and Charleston Boulevard,36114391,-115303848,UNLV
+621_1_477,I-215 SB Flamingo OffRamp between Charleston Boulevard and Sahara Avenue,36115776,-115306526,UNLV
+622_1_479,I-215 SB TownCenter OnRamp between Sahara Avenue and I-515 SB to Lake Mead Dr,36119946,-115325867,UNLV
+623_1_480,I-215 SB TownCenter OffRamp between I-515 SB to Lake Mead Dr and Flamingo Road,36121330,-115328720,UNLV
+624_1_483,I-215 SB Sahara OnRamp between Flamingo Road and Tropicana Avenue,36143520,-115338531,UNLV
+625_1_484,I-215 SB Sahara OffRamp between Tropicana Avenue and Russell Road,36146378,-115338646,UNLV
+626_1_486,I-215 SB Charleston OnRamp between Russell Road and Sunset Road,36157593,-115339020,UNLV
+627_1_489,I-215 SB Charleston OffRamp between Sunset Road and Durango,36160206,-115339088,UNLV
+628_1_491,I-215 SB Far Hills OnRamp between Sunset Road and Durango,36176353,-115340897,UNLV
+629_1_493,I-215 SB Far Hills OffRamp between Sunset Road and Durango,36178471,-115341881,UNLV
+63_2_18,I-15 NB Tropicana Ave On-Ramp between Tropicana Avenue and I-15 NB,36102394,-115179695,UNLV
+630_1_494,I-215 SB Summerlin OnRamp between Sunset Road and Durango,36190025,-115344330,UNLV
+631_1_496,I-215 SB Summerlin OffRamp between Sunset Road and Durango,36192589,-115344063,UNLV
+632_1_498,I-215 SB Lake Mead OnRamp between Sunset Road and Durango,36204498,-115342659,UNLV
+633_1_499,I-215 SB Lake Mead OffRamp between Sunset Road and Durango,36207020,-115341988,UNLV
+634_1_501,I-215 SB Cheyenne OnRamp between Sunset Road and Durango,36217770,-115330902,UNLV
+635_1_504,I-215 SB Cheyenne OffRamp between Sunset Road and Durango,36219398,-115329948,UNLV
+636_1_464,I-215 NB Sunset OnRamp between Lake Mead Boulevard and Cheyenne Avenue,36071438,-115287010,UNLV
+638_1_468,I-215 NB Russell OnRamp between Alexander Road and Cheyenne Avenue,36086311,-115287323,UNLV
+639_1_466,I-215 NB Russel OffRamp between Cheyenne Avenue and Lake Mead Boulevard,36084305,-115287323,UNLV
+640_1_472,I-215 NB Tropicana OnRamp between Lake Mead Boulevard and I-515 SB College Off Ramp,36101032,-115291985,UNLV
+641_1_470,I-215 NB Tropicana OffRamp between I-515 SB College Off Ramp and I-515 SB College On Ramp,36099159,-115290421,UNLV
+642_1_476,I-215 NB Flamingo OnRamp between I-515 SB College On Ramp and Charleston Boulevard,36115776,-115301399,UNLV
+643_1_474,I-215 NB Flamingo OffRamp between Charleston Boulevard and Sahara Avenue,36114082,-115299393,UNLV
+644_1_481,I-215 NB TownCenter OnRamp between Sahara Avenue and I-515 SB to Lake Mead Dr,36123917,-115327202,UNLV
+645_1_478,I-215 NB TownCenter OffRamp between I-515 SB to Lake Mead Dr and Flamingo Road,36122242,-115324127,UNLV
+646_1_485,I-215 NB Sahara OnRamp between Flamingo Road and Tropicana Avenue,36145908,-115335320,UNLV
+647_1_482,I-215 NB Sahara OffRamp between Tropicana Avenue and Russell Road,36143188,-115335144,UNLV
+648_1_488,I-215 NB Charleston OnRamp between Russell Road and Sunset Road,36160183,-115335823,UNLV
+649_1_487,I-215 NB Charleston OffRamp between Sunset Road and Durango,36157730,-115335823,UNLV
+65_1_19,I-15 SB Tropicana Off-Ramp between I-15 SB and Tropicana Avenue,36104733,-115181763,UNLV
+65_2_19,I-15 SB Tropicana Off-Ramp between I-15 SB and Tropicana Avenue,36103378,-115181946,UNLV
+650_1_492,I-215 NB Far Hills OnRamp between Sunset Road and Durango,36179497,-115338188,UNLV
+651_1_490,I-215 NB Far Hills OffRamp between Sunset Road and Durango,36177086,-115337296,UNLV
+652_1_495,I-215 NB Summerlin OnRamp between Sunset Road and Durango,36192635,-115340424,UNLV
+653_1_492,I-215 NB Summerlin OffRamp between Sunset Road and Durango,36190247,-115340576,UNLV
+654_1_500,I-215 NB Lake Mead OnRamp between Sunset Road and Durango,36206306,-115338524,UNLV
+655_1_497,I-215 NB Lake Mead OffRamp between Sunset Road and Durango,36204075,-115339241,UNLV
+656_1_503,I-215 NB Cheyenne OnRamp between Sunset Road and Durango,36219330,-115326324,UNLV
+657_1_502,I-215 NB Cheyenne OffRamp between Sunset Road and Durango,36217770,-115327126,UNLV
+676_1_25,I-215 NB Jones OnRamp between Lake Mead Boulevard and Cheyenne Avenue,36273144,-115223381,UNLV
+677_1_449,I-215 NB Jones OffRamp between Cheyenne Avenue and Alexander Road,36273014,-115226151,UNLV
+678_1_455,I-215 NB Decatur OnRamp between Alexander Road and Cheyenne Avenue,36273251,-115205276,UNLV
+679_1_453,I-215 NB Decatur OffRamp between Cheyenne Avenue and Lake Mead Boulevard,36273178,-115208206,UNLV
+681_1_459,I-215 NB Aliante OffRamp between I-515 SB College Off Ramp and I-515 SB College On Ramp,36292114,-115180321,UNLV
+682_1_451,I-215 SB Jones OnRamp between I-515 SB College On Ramp and Charleston Boulevard,36277264,-115226036,UNLV
+683_1_450,I-215 SB Jones OffRamp between Charleston Boulevard and Sahara Avenue,36277302,-115222565,UNLV
+684_1_454,I-215 SB Decatur OnRamp between Sahara Avenue and I-515 SB to Lake Mead Dr,36277119,-115207855,UNLV
+685_1_452,I-215 SB Decatur OffRamp between I-515 SB to Lake Mead Dr and Flamingo Road,36277111,-115204918,UNLV
+686_1_458,I-215 SB Aliante OnRamp between Flamingo Road and Tropicana Avenue,36289700,-115183464,UNLV
+688_2_519,US-95 SB between Tropical and Clark County 215,36276299,-115266197,UNLV
+689_1_522,US-95 SB between Clark County 215 and Elkhorn,36288700,-115277603,UNLV
+689_2_521,US-95 SB between Clark County 215 and Elkhorn,36285099,-115274300,UNLV
+689_3_520,US-95 SB between Clark County 215 and Elkhorn,36280800,-115270401,UNLV
+690_1_524,US-95 SB between Elkhorn and Durango,36295898,-115284103,UNLV
+690_2_523,US-95 SB between Elkhorn and Durango,36292500,-115280998,UNLV
+691_2_525,US-95 SB between Durango and Grand Teton,36299099,-115287003,UNLV
+692_1_516,US-95 SB Ann Rd Off-Ramp between Tropical and Clark County 215,36264900,-115255898,UNLV
+693_1_538,I-15 NB between Centennial Parkway and Speedway Boulevard,36283272,-115021881,UNLV
+694_1_538,I-15 NB LV Blvd OnRamp between I-15 NB and 1.71 Miles south of Sloan Road,36311401,-114949402,UNLV
+695_1_536,I-15 NB LV Blvd OffRamp between 2.71 Miles south of Sloan Road and I-15 NB,36309502,-114954399,UNLV
+696_2_539,I-15 SB between N LV Hwy and Craig Rd,36283272,-115021881,UNLV
+697_1_537,I-15 SB LV Blvd OnRamp between I-15 NB and 3.71 Miles south of Sloan Road,36309898,-114954903,UNLV
+698_1_539,I-15 SB LV Blvd OffRamp between 2.71 Miles south of Sloan Road and I-15 NB,36311901,-114949898,UNLV
+73_2_23,I-15 NB Flamingo EB Off-Ramp between I-15 NB and Flamingo Road,36112103,-115179489,UNLV
+74_1_22,I-15 NB Flamingo On-Ramp between Flamingo Road and I-15 NB,36116070,-115179489,UNLV
+81_2_24,I-15 SB Flamingo On-Ramp between Flamingo Road and I-15 SB,36113003,-115182426,UNLV
+86_1_28,I-15 NB Sping Mtn EB Off-Ramp between I-15 NB and Spring Mountain Road,36124413,-115178665,UNLV
+88_1_28,I-15 NB Spring Mtn EB On-Ramp between Spring Mountain Road and I-15 NB,36125618,-115179916,UNLV
+9_3_2,CC-215 WB between I-15 SB to I-215 WB/EB Ramp and I-215 WB Decatur Off-Ramp,36069210,-115203293,UNLV
+90_2_30,I-15 NB Spring Mtn WB On-Ramp between Spring Mountain Road and I-15 NB,36127480,-115178146,UNLV
+95_1_29,I-15 SB Spring Mtn On-Ramp between Spring Mountain Road and I-15 SB,36125626,-115182320,UNLV
+121_1_43,I-15 SB MLK Blvd On-Ramp between Martin Luther King Boulevard and I-15 SB,36154499,-115162560,UNLV
+212_3_363,I-515 SB between I-515 SB Charleston Off-Ramp and I-515 SB Charleston On-Ramp,36144207,-115091743,UNLV
+219_2_174,I-515 NB between I-515 NB Boulder Hwy Off-Ramp and I-515 NB Charleston Off-Ramp,36123962,-115083687,UNLV
+361_2_164,I-515 SB between Dell Santos Drive and Viking Road,36086498,-115060921,UNLV
+361_3_295,I-515 SB between Dell Santos Drive and Viking Road,36084278,-115054420,UNLV
+374_1_167,I-515 NB between Boulder Highway and Viking Road,36091614,-115070724,UNLV
+375_1_290,I-515 NB between Viking Road and Dell Santos Drive,36085552,-115051773,UNLV
+375_2_293,I-515 NB between Viking Road and Dell Santos Drive,36088257,-115059525,UNLV
+375_3_168,I-515 NB between Viking Road and Dell Santos Drive,36089645,-115066162,UNLV
+391_2_410,I-15 SB between Smiley Road and Craig Road,36245720,-115096901,UNLV
+391_3_252,I-15 SB between Smiley Road and Craig Road,36242081,-115101257,UNLV
+403_3_448,I-15 NB between Centennial Parkway and Speedway Boulevard,36287430,-115010963,UNLV
+575_1_448,I-15 SB between N LV Hwy and Craig Rd,36289131,-115012016,UNLV
+575_3_446,I-15 SB between N LV Hwy and Craig Rd,36284855,-115023399,UNLV
+95_2_29,I-15 SB Spring Mtn On-Ramp between Spring Mountain Road and I-15 SB,36124588,-115181709,UNLV
+2_1_268,215 EB,360670163,-1152184818,Bugatti
+2_2_267,215 EB,3606729199,-1152130287,Bugatti
+26_1_97,215 EB,3606334183,-1151652356,Bugatti
+26_2_98,215 EB,3606275381,-115150645,Bugatti
+4_1_1,215 EB,3606806787,-1152048716,Bugatti
+4_2_4,215 EB,3606841781,-1151995012,Bugatti
+4_3_4,215 EB,3606714143,-1151932468,Bugatti
+478_2_263,215 EB,3605997447,-1151435223,Bugatti
+479_1_262,215 EB,3605355175,-1151380316,Bugatti
+479_2_261,215 EB,3604897548,-1151354145,Bugatti
+480_1_121,215 EB,3603759543,-1151339293,Bugatti
+480_2_122,215 EB,3602768464,-1151302244,Bugatti
+480_3_123,215 EB,36024067,-11512447,Bugatti
+481_1_124,215 EB,36023396,-115113396,Bugatti
+481_2_194,215 EB,36023388,-11510656,Bugatti
+482_1_236,215 EB,3602323,-115096016,Bugatti
+482_2_237,215 EB,3602362512,-1150886351,Bugatti
+483_1_253,215 EB,3602522019,-1150781268,Bugatti
+483_2_254,215 EB,3602669377,-1150663672,Bugatti
+484_1_255,215 EB,3602792944,-1150569101,Bugatti
+484_2_256,215 EB,3602851811,-1150511465,Bugatti
+485_1_257,215 EB,3602967135,-115042486,Bugatti
+485_2_258,215 EB,3603082586,-1150335141,Bugatti
+486_1_259,215 EB,3603215871,-1150260151,Bugatti
+486_2_260,215 EB,3603268551,-1150208272,Bugatti
+5_1_6,215 EB,3606513259,-1151866373,Bugatti
+505_1_274,215 EB,3606598686,-1152726817,Bugatti
+505_2_273,215 EB,3606595022,-115267263,Bugatti
+506_1_272,215 EB,3606606773,-1152546173,Bugatti
+506_2_271,215 EB,3606622729,-1152479451,Bugatti
+507_1_270,215 EB,3606651418,-1152346769,Bugatti
+507_2_269,215 EB,3606660574,-1152301277,Bugatti
+6_2_264,215 EB,3606323184,-1151773935,Bugatti
+10_1_267,215 WB,3606772548,-1152130342,Bugatti
+10_2_268,215 WB,3606749059,-1152184853,Bugatti
+25_1_98,215 WB,3606322291,-1151504901,Bugatti
+25_2_97,215 WB,3606384537,-1151652777,Bugatti
+476_1_261,215 WB,3604908056,-1151349139,Bugatti
+476_2_262,215 WB,3605372069,-1151375397,Bugatti
+477_1_263,215 WB,3606032778,-1151430833,Bugatti
+487_1_260,215 WB,3603316,-11502091,Bugatti
+487_2_259,215 WB,36032707,-11502607,Bugatti
+488_1_258,215 WB,36031437,-11503352,Bugatti
+488_2_257,215 WB,36030205,-11504251,Bugatti
+489_1_256,215 WB,3602917,-11505118,Bugatti
+489_2_255,215 WB,36028427,-11505694,Bugatti
+490_1_254,215 WB,3602726,-11506644,Bugatti
+490_2_253,215 WB,36025738,-11507814,Bugatti
+491_1_237,215 WB,36024204,-115088646,Bugatti
+491_2_236,215 WB,360238116,-1150959947,Bugatti
+492_1_194,215 WB,3602388723,-1151065988,Bugatti
+492_2_124,215 WB,3602392266,-1151134123,Bugatti
+493_1_123,215 WB,3602458681,-115124225,Bugatti
+493_2_122,215 WB,3602793046,-1151297574,Bugatti
+493_3_121,215 WB,3603761,-1151332,Bugatti
+502_1_269,215 WB,3606713192,-1152301259,Bugatti
+502_2_270,215 WB,3606697692,-1152346955,Bugatti
+503_1_271,215 WB,3606669111,-1152479548,Bugatti
+503_2_272,215 WB,3606656408,-1152546549,Bugatti
+504_1_273,215 WB,3606642607,-1152672625,Bugatti
+504_2_274,215 WB,3606644851,-1152726767,Bugatti
+7_1_264,215 WB,3606371754,-1151774036,Bugatti
+8_1_7,215 WB,3606459425,-1151831058,Bugatti
+8_2_5,215 WB,3606616461,-1151884096,Bugatti
+9_1_3,215 WB,3606754827,-1151928653,Bugatti
+494_1_266,Airport Connector,3606617985,-1151485825,Bugatti
+495_1_266,Airport Connector,3606602741,-1151480372,Bugatti
+496_1_266,Airport Connector,360660421,-115148137,Bugatti
+497_1_266,Airport Connector,3606612203,-1151483585,Bugatti
+499_2_265,Airport Connector,3607004042,-1151470407,Bugatti
+500_1_265,Airport Connector,36069926,-115146501,Bugatti
+664_1_461,CC-215 EB,3627519167,-1152450218,Bugatti
+664_2_449,CC-215 EB,3627498611,-115232213,Bugatti
+665_1_25,CC-215 EB,3627483337,-1152200461,Bugatti
+665_2_462,CC-215 EB,362738,-1152158,Bugatti
+665_3_453,CC-215 EB,3627473333,-1152114648,Bugatti
+666_1_455,CC-215 EB,3627528889,-1152007233,Bugatti
+666_2_457,CC-215 EB,3627969167,-1151924136,Bugatti
+666_3_459,CC-215 EB,3628678889,-1151835009,Bugatti
+591_1_464,CC-215 NB,360752,-1152887,Bugatti
+591_2_466,CC-215 NB,3608005032,-1152886162,Bugatti
+592_1_468,CC-215 NB,3609,-1152885,Bugatti
+592_2_470,CC-215 NB,360939,-1152889,Bugatti
+593_1_472,CC-215 NB,36105,-1152951,Bugatti
+593_2_474,CC-215 NB,361111,-1152979,Bugatti
+594_1_476,CC-215 NB,3611733262,-1153062607,Bugatti
+594_2_478,CC-215 NB,3612028068,-1153219928,Bugatti
+595_1_481,CC-215 NB,3612425186,-1153300513,Bugatti
+595_2_482,CC-215 NB,361397399,-115336143,Bugatti
+596_1_485,CC-215 NB,361496,-1153366,Bugatti
+596_2_487,CC-215 NB,3615436111,-1153367779,Bugatti
+597_1_488,CC-215 NB,3616355651,-1153370968,Bugatti
+597_2_490,CC-215 NB,3617698649,-1153388551,Bugatti
+598_1_492,CC-215 NB,3618484444,-1153420633,Bugatti
+599_1_495,CC-215 NB,3619523056,-1153417296,Bugatti
+599_2_497,CC-215 NB,3620155833,-1153408667,Bugatti
+600_1_500,CC-215 NB,3621081111,-1153364122,Bugatti
+600_2_502,CC-215 NB,3621631389,-1153296687,Bugatti
+601_1_503,CC-215 NB,3622338056,-1153254265,Bugatti
+602_2_504,CC-215 SB,3622413889,-1153261002,Bugatti
+603_1_501,CC-215 SB,3621601111,-1153309949,Bugatti
+603_2_499,CC-215 SB,3621036667,-1153379704,Bugatti
+604_1_498,CC-215 SB,3620269167,-1153414851,Bugatti
+604_2_496,CC-215 SB,3619679378,-1153422201,Bugatti
+605_1_494,CC-215 SB,36191,-1153429,Bugatti
+605_2_493,CC-215 SB,3618502778,-1153429614,Bugatti
+606_1_491,CC-215 SB,36176225,-1153392303,Bugatti
+606_2_489,CC-215 SB,3616480864,-1153377982,Bugatti
+607_1_486,CC-215 SB,3615457408,-1153374115,Bugatti
+607_2_484,CC-215 SB,36149475,-1153371827,Bugatti
+608_1_483,CC-215 SB,3614048889,-1153368989,Bugatti
+608_2_480,CC-215 SB,3612395278,-1153306791,Bugatti
+609_1_479,CC-215 SB,3611997867,-1153231516,Bugatti
+609_2_477,CC-215 SB,361173,-1153062,Bugatti
+610_1_475,CC-215 SB,3611133854,-1152987009,Bugatti
+610_2_473,CC-215 SB,3610528056,-115295733,Bugatti
+611_1_471,CC-215 SB,3609566111,-1152904741,Bugatti
+611_2_469,CC-215 SB,3609035,-1152891474,Bugatti
+612_1_467,CC-215 SB,3608026111,-115289252,Bugatti
+612_2_465,CC-215 SB,360742,-1152898,Bugatti
+673_1_451,CC-215 WB,36275575,-1152298009,Bugatti
+673_2_460,CC-215 WB,3627578056,-1152449609,Bugatti
+674_1_454,CC-215 WB,3627542222,-1152118092,Bugatti
+674_2_463,CC-215 WB,362754,-1152158388,Bugatti
+674_3_450,CC-215 WB,3627547962,-1152197349,Bugatti
+675_1_458,CC-215 WB,3628678889,-11518462,Bugatti
+675_2_456,CC-215 WB,3628008056,-1151928898,Bugatti
+675_3_452,CC-215 WB,3627603,-1152006333,Bugatti
+710_2_740,I-11 NB,36002298,-114794797,Bugatti
+707_4_740,I-11 SB,36002062,-114794754,Bugatti
+110_1_41,I-15 NB,3615035185,-1151653275,Bugatti
+112_2_44,I-15 NB,3615673701,-1151602384,Bugatti
+113_2_45,I-15 NB,3616054711,-1151600272,Bugatti
+122_2_48,I-15 NB,3616656498,-1151593364,Bugatti
+124_2_49,I-15 NB,361708272,-1151574156,Bugatti
+137_1_80,I-15 NB,3617509136,-1151536994,Bugatti
+138_1_53,I-15 NB,3617831248,-1151487747,Bugatti
+146_2_238,I-15 NB,3618819436,-1151431851,Bugatti
+148_2_58,I-15 NB,3619484602,-1151388363,Bugatti
+149_2_240,I-15 NB,3619895129,-1151371799,Bugatti
+160_1_241 ,I-15 NB,3620308098,-1151344072,Bugatti
+160_2_242,I-15 NB,3620679424,-1151317133,Bugatti
+161_2_241,I-15 NB,3620308098,-1151344072,Bugatti
+32_1_142,I-15 NB,3605117107,-1151802266,Bugatti
+34_1_94,I-15 NB,3605569977,-1151804147,Bugatti
+34_2_90,I-15 NB,3606065639,-1151804043,Bugatti
+354_1_79,I-15 NB,3603580623,-11518031,Bugatti
+354_2_144,I-15 NB,3604075287,-1151801935,Bugatti
+354_3_145,I-15 NB,3604591258,-1151804891,Bugatti
+355_1_156,I-15 NB,3602113089,-1151802807,Bugatti
+355_2_153,I-15 NB,360261007,-1151804048,Bugatti
+355_3_155,I-15 NB,3603085027,-1151804517,Bugatti
+356_1_309,I-15 NB,36003196,-115180024,Bugatti
+356_2_308,I-15 NB,3600892,-11517992,Bugatti
+356_3_313,I-15 NB,36015394,-115180088,Bugatti
+357_1_312,I-15 NB,3598778,-11518072,Bugatti
+357_2_311,I-15 NB,35993297,-1151805,Bugatti
+357_3_310,I-15 NB,35998224,-115180293,Bugatti
+358_1_325,I-15 NB,3597185101,-1151810836,Bugatti
+358_2_320,I-15 NB,35976806,-115180803,Bugatti
+358_3_319,I-15 NB,35982311,-115180824,Bugatti
+359_1_325,I-15 NB,359664238,-1151813135,Bugatti
+39_2_88,I-15 NB,3606607991,-1151804515,Bugatti
+396_1_243,I-15 NB,3621155503,-1151283916,Bugatti
+396_2_246,I-15 NB,3621587828,-1151249788,Bugatti
+396_3_246,I-15 NB,36219577,-1151223722,Bugatti
+397_1_247,I-15 NB,3622396521,-1151192843,Bugatti
+398_1_249,I-15 NB,362342705,-1151089671,Bugatti
+398_2_251,I-15 NB,3623797692,-1151041449,Bugatti
+403_3_534,I-15 NB,36295939,-114991402,Bugatti
+437_1_328,I-15 NB,35947927,-115182234,Bugatti
+437_2_327,I-15 NB,35956156,-11518141,Bugatti
+438_1_331,I-15 NB,35916016,-115202995,Bugatti
+438_2_330,I-15 NB,3592525048,-1151962065,Bugatti
+438_3_329,I-15 NB,35930272,-115192852,Bugatti
+439_1_334,I-15 NB,3589037351,-1152210331,Bugatti
+439_2_333,I-15 NB,3589834244,-1152153875,Bugatti
+439_3_332,I-15 NB,3590709478,-1152092327,Bugatti
+440_1_335,I-15 NB,3588306,-11522864,Bugatti
+441_1_338,I-15 NB,3585868424,-1152565318,Bugatti
+441_2_337,I-15 NB,35868214,-115245636,Bugatti
+441_3_336,I-15 NB,3587595522,-1152367825,Bugatti
+442_1_341,I-15 NB,35832462,-11528672,Bugatti
+442_2_340,I-15 NB,3584119274,-1152766316,Bugatti
+442_3_339,I-15 NB,35850117,-11526643,Bugatti
+443_1_344,I-15 NB,3580191093,-1153124134,Bugatti
+443_2_343,I-15 NB,35812904,-115304375,Bugatti
+443_3_342,I-15 NB,358236301,-1152963318,Bugatti
+444_1_100,I-15 NB,3578372784,-1153259357,Bugatti
+444_3_345,I-15 NB,3579288,-11531906,Bugatti
+445_1_348,I-15 NB,3574745,-11535243,Bugatti
+445_2_347,I-15 NB,3575846785,-1153442947,Bugatti
+445_3_346,I-15 NB,35769537,-115336282,Bugatti
+446_1_350,I-15 NB,3571500894,-1153648235,Bugatti
+446_2_78,I-15 NB,3572717,-1153606,Bugatti
+446_3_349,I-15 NB,3573508653,-1153577546,Bugatti
+447_1_352,I-15 NB,356847,-115375534,Bugatti
+447_2_351,I-15 NB,3569582604,-1153715259,Bugatti
+447_3_77,I-15 NB,3570479,-11536849,Bugatti
+448_1_355,I-15 NB,3565855093,-1153802518,Bugatti
+448_2_354,I-15 NB,3566594,-115378975,Bugatti
+448_3_353,I-15 NB,3567358726,-1153774943,Bugatti
+449_1_358,I-15 NB,35631138,-11538485,Bugatti
+449_2_357,I-15 NB,3564038301,-1153833446,Bugatti
+449_3_356,I-15 NB,35649635,-11538174,Bugatti
+450_1_99,I-15 NB,3561556389,-1153877,Bugatti
+450_2_359,I-15 NB,3562113534,-1153865751,Bugatti
+451_1_99,I-15 NB,356096866,-1153900209,Bugatti
+48_2_83,I-15 NB,3607156879,-1151803533,Bugatti
+49_1_82,I-15 NB,3607760749,-1151803722,Bugatti
+49_2_12,I-15 NB,3608342347,-1151804156,Bugatti
+49_3_15,I-15 NB,3608834036,-1151801468,Bugatti
+58_2_17,I-15 NB,3609319589,-1151802484,Bugatti
+59_1_18,I-15 NB,3609944848,-1151798922,Bugatti
+59_2_18,I-15 NB,361024417,-1151805269,Bugatti
+70_2_21,I-15 NB,3610675426,-1151802937,Bugatti
+71_2_23,I-15 NB,3611168423,-1151801807,Bugatti
+72_1_22,I-15 NB,3611648559,-1151803673,Bugatti
+72_2_28,I-15 NB,3612181672,-1151803009,Bugatti
+89_1_28,I-15 NB,3612548955,-1151802888,Bugatti
+89_2_30,I-15 NB,3612813176,-1151802587,Bugatti
+97_1_33,I-15 NB,3613408762,-1151792211,Bugatti
+97_2_33,I-15 NB,3613886948,-1151754287,Bugatti
+97_3_38,I-15 NB,3614113388,-1151734249,Bugatti
+99_1_35,I-15 NB,3614549734,-1151696018,Bugatti
+522_1_17,I-15 NB Access Road,360931943,-1151802258,Bugatti
+522_2_15,I-15 NB Access Road,3608833844,-1151801143,Bugatti
+523_1_12,I-15 NB Access Road,3608375057,-1151799649,Bugatti
+523_2_84,I-15 NB Access Road,3607760529,-1151803595,Bugatti
+524_1_8,I-15 NB Access Road,3607156667,-1151803353,Bugatti
+524_3_90,I-15 NB Access Road,3606065639,-115180391,Bugatti
+525_1_93,I-15 NB Access Road,3605569673,-1151803959,Bugatti
+525_2_142,I-15 NB Access Road,36051169,-1151802102,Bugatti
+525_3_145,I-15 NB Access Road,3604754272,-1151800249,Bugatti
+526_1_144,I-15 NB Access Road,3604075317,-1151801771,Bugatti
+526_2_79,I-15 NB Access Road,3603582184,-1151802351,Bugatti
+102_1_40,I-15 SB,3614692085,-1151690266,Bugatti
+102_2_37,I-15 SB,3614230374,-1151731137,Bugatti
+111_1_42,I-15 SB,361510992,-1151653722,Bugatti
+117_1_46,I-15 SB,3615984434,-1151605412,Bugatti
+117_3_43,I-15 SB,3615471037,-1151621509,Bugatti
+123_2_50,I-15 SB,3616567516,-1151601987,Bugatti
+132_1_80,I-15 SB,3617583044,-1151535063,Bugatti
+136_2_47,I-15 SB,3617179194,-1151573974,Bugatti
+142_2_54,I-15 SB,3617852346,-1151494228,Bugatti
+147_2_56,I-15 SB,3618823908,-1151434838,Bugatti
+155_1_240,I-15 SB,3619901337,-1151374126,Bugatti
+155_2_239,I-15 SB,3619731847,-1151384885,Bugatti
+156_2_57,I-15 SB,3619502138,-1151394073,Bugatti
+161_1_242,I-15 SB,3620708696,-1151322908,Bugatti
+17_2_141,I-15 SB,3605241096,-1151812445,Bugatti
+348_1_149,I-15 SB,3604687625,-1151810861,Bugatti
+348_2_151,I-15 SB,3604160699,-1151811055,Bugatti
+348_3_150,I-15 SB,3603610453,-1151811119,Bugatti
+349_1_154,I-15 SB,3603033061,-115181113,Bugatti
+349_3_152,I-15 SB,360252025,-1151810443,Bugatti
+350_1_158,I-15 SB,3601864305,-1151808412,Bugatti
+350_2_159,I-15 SB,3601399147,-1151807131,Bugatti
+350_3_314,I-15 SB,36008916,-11518074,Bugatti
+351_1_315,I-15 SB,3600317,-115181,Bugatti
+351_2_316,I-15 SB,3599824,-115181031,Bugatti
+351_3_317,I-15 SB,35993299,-115181144,Bugatti
+352_1_318,I-15 SB,3598777,-11518133,Bugatti
+352_2_321,I-15 SB,35982035,-115181502,Bugatti
+352_3_322,I-15 SB,35976233,-1151817,Bugatti
+353_1_323,I-15 SB,35971817,-115181783,Bugatti
+353_2_324,I-15 SB,3596725,-1151821333,Bugatti
+388_1_245,I-15 SB,3621940876,-1151231265,Bugatti
+388_2_244,I-15 SB,3621532011,-1151260695,Bugatti
+388_3_243,I-15 SB,3621166068,-1151286707,Bugatti
+389_1_248 ,I-15 SB,3622998914,-1151150318,Bugatti
+389_2_247,I-15 SB,3622405963,-1151195122,Bugatti
+390_1_252,I-15 SB,3624148615,-1151006826,Bugatti
+390_2_250,I-15 SB,3623810665,-1151048641,Bugatti
+390_3_249,I-15 SB,3623441602,-1151091409,Bugatti
+397_2_248,I-15 SB,3622998914,-1151150318,Bugatti
+40_1_9,I-15 SB,3606629697,-1151810298,Bugatti
+41_1_95,I-15 SB,3606174831,-1151810966,Bugatti
+41_2_140,I-15 SB,3605735152,-1151810731,Bugatti
+422_1_326,I-15 SB,3595399,-1151824,Bugatti
+422_2_328,I-15 SB,3594801354,-1151830455,Bugatti
+423_1_329,I-15 SB,3593053587,-1151934074,Bugatti
+423_2_330,I-15 SB,359256,-11519695,Bugatti
+423_3_331,I-15 SB,3591626991,-1152033819,Bugatti
+424_1_332,I-15 SB,3590735,-11520973,Bugatti
+424_2_333,I-15 SB,3589857311,-1152158996,Bugatti
+424_3_334,I-15 SB,35890648,-11522152,Bugatti
+425_1_335,I-15 SB,3588333054,-1152290002,Bugatti
+426_1_336,I-15 SB,35876347,-115237274,Bugatti
+426_2_337,I-15 SB,3586853262,-1152459812,Bugatti
+426_3_338,I-15 SB,3585904,-115257,Bugatti
+427_1_339,I-15 SB,3585041606,-1152668309,Bugatti
+427_2_340,I-15 SB,35841587,-1152771,Bugatti
+427_3_341,I-15 SB,3583276695,-1152870806,Bugatti
+428_1_342,I-15 SB,35824,-11529697,Bugatti
+428_2_343,I-15 SB,3581312324,-1153048398,Bugatti
+428_3_344,I-15 SB,35802162,-115312905,Bugatti
+429_1_345,I-15 SB,357931481,-1153194946,Bugatti
+429_3_100,I-15 SB,35783911,-115326174,Bugatti
+430_1_346,I-15 SB,3576974868,-115336719,Bugatti
+430_2_347,I-15 SB,35758682,-11534485,Bugatti
+430_3_348,I-15 SB,3574761947,-1153529352,Bugatti
+431_1_349,I-15 SB,35735214,-11535853,Bugatti
+431_2_78,I-15 SB,3572725363,-1153611265,Bugatti
+431_3_350,I-15 SB,3571513,-115365395,Bugatti
+432_1_77,I-15 SB,357048966,-1153690353,Bugatti
+432_2_351,I-15 SB,3569597,-1153722,Bugatti
+432_3_352,I-15 SB,3568478663,-1153760652,Bugatti
+433_1_353,I-15 SB,35673664,-11537835,Bugatti
+433_2_354,I-15 SB,3566598248,-1153795033,Bugatti
+433_3_355,I-15 SB,35658607,-115380806,Bugatti
+434_1_356,I-15 SB,3564967226,-1153823381,Bugatti
+434_2_357,I-15 SB,3564043889,-11538389,Bugatti
+434_3_358,I-15 SB,3563120395,-1153854155,Bugatti
+435_1_359,I-15 SB,3562118,-11538717,Bugatti
+435_1_99,I-15 SB,3561546111,-1153880944,Bugatti
+436_1_99,I-15 SB,3560900162,-115390755,Bugatti
+56_1_14,I-15 SB,3608844954,-1151810319,Bugatti
+57_1_13,I-15 SB,3608339481,-1151809936,Bugatti
+57_2_11,I-15 SB,3607720938,-1151809255,Bugatti
+57_3_10,I-15 SB,3607245628,-1151810302,Bugatti
+575_1_537,I-15 SB,36309898,-114954903,Bugatti
+64_1_19,I-15 SB,3610332335,-1151809782,Bugatti
+69_1_52,I-15 SB,3609934623,-1151809991,Bugatti
+69_2_16,I-15 SB,3609437038,-1151811585,Bugatti
+76_2_26,I-15 SB,3611706605,-1151809622,Bugatti
+77_2_24,I-15 SB,36112188,-1151809348,Bugatti
+78_2_20,I-15 SB,3610672438,-115180814,Bugatti
+91_1_31,I-15 SB,3612932089,-1151809201,Bugatti
+91_2_29,I-15 SB,3612447436,-1151809419,Bugatti
+92_2_27,I-15 SB,3612071376,-1151809951,Bugatti
+98_2_34,I-15 SB,3613865729,-1151764126,Bugatti
+98_3_32,I-15 SB,3613409272,-1151795734,Bugatti
+527_2_146,I-15 SB Access Road,360441426,-1151811998,Bugatti
+527_3_141,I-15 SB Access Road,3605241,-1151812633,Bugatti
+528_1_96,I-15 SB Access Road,3605735042,-1151810811,Bugatti
+528_2_87,I-15 SB Access Road,3606629554,-1151810463,Bugatti
+528_3_76,I-15 SB Access Road,3607245757,-1151810452,Bugatti
+529_1_81,I-15 SB Access Road,3607753889,-1151810086,Bugatti
+529_1_81,I-15 SB Access Road,3607753889,-1151810086,Bugatti
+529_1_81,I-15 SB Access Road,3607753889,-1151810086,Bugatti
+529_2_13,I-15 SB Access Road,3608339511,-1151810106,Bugatti
+529_3_14,I-15 SB Access Road,3608844836,-1151810443,Bugatti
+530_1_16,I-15 SB Access Road,3609436682,-115181181,Bugatti
+11_1_2,Ramp Detectors,3606847607,-1152049107,Bugatti
+114_2_44,Ramp Detectors,3615705247,-1151599368,Bugatti
+115_1_45,Ramp Detectors,3615918058,-115159975,Bugatti
+116_2_45,Ramp Detectors,3616054315,-1151600279,Bugatti
+118_1_46,Ramp Detectors,3616157074,-1151606614,Bugatti
+127_1_201,Ramp Detectors,3617545821,-1151611706,Bugatti
+129_2_49,Ramp Detectors,3617177034,-1151566333,Bugatti
+134_1_80,Ramp Detectors,3617562637,-1151543162,Bugatti
+135_1_80,Ramp Detectors,361754821,-1151541437,Bugatti
+139_2_53,Ramp Detectors,3617831202,-1151487747,Bugatti
+143_2_55,Ramp Detectors,3618261349,-1151443575,Bugatti
+150_2_58,Ramp Detectors,3619484546,-115138835,Bugatti
+159_2_57,Ramp Detectors,3619475163,-115139803,Bugatti
+169_2_197,Ramp Detectors,3617496762,-1151778263,Bugatti
+169_3_197,Ramp Detectors,3617528667,-1151725632,Bugatti
+171_1_196,Ramp Detectors,3617508266,-1151612301,Bugatti
+171_2_47,Ramp Detectors,3617181414,-1151574935,Bugatti
+175_1_51,Ramp Detectors,3617433544,-1151562421,Bugatti
+180_2_75,Ramp Detectors,3617479837,-1151502877,Bugatti
+180_3_51,Ramp Detectors,3617379305,-1151559738,Bugatti
+182_1_75,Ramp Detectors,3617491785,-1151533501,Bugatti
+184_1_80,Ramp Detectors,3617498822,-1151555254,Bugatti
+193_1_71,Ramp Detectors,3617508298,-1151432875,Bugatti
+195_1_71,Ramp Detectors,3617407626,-1151405537,Bugatti
+197_2_69,Ramp Detectors,3617346111,-1151361111,Bugatti
+205_1_66,Ramp Detectors,36167725,-1151183167,Bugatti
+208_1_63,Ramp Detectors,3616813999,-1151132584,Bugatti
+29_2_5,Ramp Detectors,3606616549,-1151884092,Bugatti
+3_2_1,Ramp Detectors,3606806781,-1152048714,Bugatti
+31_1_7,Ramp Detectors,3606447552,-1151824441,Bugatti
+347_1_69,Ramp Detectors,3617216187,-1151352084,Bugatti
+467_2_246,Ramp Detectors,3621587833,-1151249782,Bugatti
+468_2_245,Ramp Detectors,3621940944,-115123127,Bugatti
+469_2_251,Ramp Detectors,3623797645,-1151041444,Bugatti
+474_1_211,Ramp Detectors,3617302069,-1152044067,Bugatti
+535_1_157,Ramp Detectors,3601864392,-1151808695,Bugatti
+79_2_26,Ramp Detectors,3611694552,-1151812451,Bugatti
+80_2_24,Ramp Detectors,3611354122,-115181079,Bugatti
+93_1_31,Ramp Detectors,3612931825,-1151809191,Bugatti
+163_1_72,US-95 NB,3617576464,-1151719412,Bugatti
+167_1_201,US-95 NB,3617545842,-1151611708,Bugatti
+167_2_201,US-95 NB,3617620747,-1151671917,Bugatti
+179_2_75,US-95 NB,3617479883,-1151502875,Bugatti
+181_1_80,US-95 NB,3617460284,-1151554918,Bugatti
+191_1_73,US-95 NB,361757125,-1151464613,Bugatti
+198_1_70,US-95 NB,3617435913,-1151404449,Bugatti
+200_1_39,US-95 NB,3617559664,-1151441011,Bugatti
+203_1_65,US-95 NB,3616798658,-1151185507,Bugatti
+203_2_67,US-95 NB,3616828059,-1151245877,Bugatti
+203_3_68,US-95 NB,3617046864,-1151301034,Bugatti
+203_4_69,US-95 NB,3617273578,-1151350829,Bugatti
+207_1_63,US-95 NB,3616791775,-1151073968,Bugatti
+207_2_63,US-95 NB,3616809041,-1151153175,Bugatti
+211_1_275,US-95 NB,3616141081,-1150917283,Bugatti
+211_2_61,US-95 NB,3616571229,-1150954099,Bugatti
+211_3_61,US-95 NB,3616766381,-11510191,Bugatti
+215_1_278,US-95 NB,3613762069,-1150903539,Bugatti
+215_2_278,US-95 NB,3614436382,-1150909984,Bugatti
+215_3_277,US-95 NB,3615073611,-1150911472,Bugatti
+215_4_275,US-95 NB,3615657599,-1150913187,Bugatti
+219_1_284,US-95 NB,3611550091,-115082509,Bugatti
+219_2_282,US-95 NB,3612316064,-1150837677,Bugatti
+219_3_281,US-95 NB,3612608988,-11508609,Bugatti
+219_4_280,US-95 NB,3613144111,-1150892033,Bugatti
+222_1_287,US-95 NB,3610356502,-1150820275,Bugatti
+222_2_285,US-95 NB,3611021555,-1150821225,Bugatti
+326_1_72,US-95 NB,3617552114,-1151781693,Bugatti
+326_2_195,US-95 NB,3617566469,-1151838261,Bugatti
+328_1_195,US-95 NB,3617655741,-115188283,Bugatti
+328_2_202,US-95 NB,3617625844,-1151941347,Bugatti
+335_2_207,US-95 NB,3617429255,-1151997582,Bugatti
+339_2_203,US-95 NB,3617384752,-1152067607,Bugatti
+344_1_203,US-95 NB,3617414033,-115211196,Bugatti
+374_1_289,US-95 NB,360902547,-1150698127,Bugatti
+374_2_289,US-95 NB,3609324054,-1150746862,Bugatti
+374_3_288,US-95 NB,3609654323,-1150789837,Bugatti
+375_1_291,US-95 NB,3608520781,-1150530123,Bugatti
+375_2_290,US-95 NB,3608751055,-1150583097,Bugatti
+375_3_290,US-95 NB,3608833661,-115064354,Bugatti
+376_1_294,US-95 NB,3607552253,-1150387855,Bugatti
+376_2_294,US-95 NB,3607920855,-1150420742,Bugatti
+376_3_292,US-95 NB,3608297691,-1150487606,Bugatti
+377_1_296,US-95 NB,3606573607,-1150327951,Bugatti
+377_2_296,US-95 NB,3607195916,-1150364853,Bugatti
+378_1_302,US-95 NB,3604873032,-1150233161,Bugatti
+378_2_301,US-95 NB,3605443978,-1150261787,Bugatti
+378_3_299,US-95 NB,360602408,-1150293364,Bugatti
+378_4_298,US-95 NB,3606315822,-1150312496,Bugatti
+379_2_303,US-95 NB,3604202719,-1150211345,Bugatti
+380_1_306,US-95 NB,3603501016,-1150156203,Bugatti
+381_3_307,US-95 NB,360298539,-1150099723,Bugatti
+383_1_377,US-95 NB,36009102,-1149879,Bugatti
+383_2_375,US-95 NB,360144,-114991302,Bugatti
+383_3_374,US-95 NB,36018101,-114996101,Bugatti
+413_1_208,US-95 NB,3617436489,-1152160855,Bugatti
+413_2_208,US-95 NB,361743548,-1152213229,Bugatti
+413_3_204,US-95 NB,3617441208,-1152267714,Bugatti
+414_1_209,US-95 NB,3617407927,-1152319294,Bugatti
+414_2_209,US-95 NB,3617394119,-1152372024,Bugatti
+414_3_223,US-95 NB,3617547025,-1152418598,Bugatti
+415_1_223,US-95 NB,3617918246,-1152440837,Bugatti
+415_2_214,US-95 NB,361830524,-11524407,Bugatti
+415_3_215,US-95 NB,3618813493,-1152441446,Bugatti
+416_1_215,US-95 NB,3619279593,-1152442131,Bugatti
+416_2_224,US-95 NB,3620269774,-1152441705,Bugatti
+416_3_216,US-95 NB,3620707712,-1152445104,Bugatti
+417_1_216,US-95 NB,3621185864,-1152456725,Bugatti
+417_2_230,US-95 NB,3621661009,-1152464943,Bugatti
+417_3_230,US-95 NB,3622141598,-1152465337,Bugatti
+418_1_225,US-95 NB,3622600702,-1152466515,Bugatti
+418_2_225,US-95 NB,3622962373,-1152465929,Bugatti
+418_3_234,US-95 NB,3623359417,-1152466395,Bugatti
+419_1_234,US-95 NB,3623862114,-1152465363,Bugatti
+419_2_217,US-95 NB,3624343728,-1152464876,Bugatti
+419_3_217,US-95 NB,3624836745,-1152464216,Bugatti
+420_1_231,US-95 NB,3625311968,-1152463504,Bugatti
+420_2_231,US-95 NB,3625769666,-1152481719,Bugatti
+420_3_160,US-95 NB,362619256,-1152521637,Bugatti
+711_5_732,US-95 NB,359333,-1148398,Bugatti
+162_1_197,US-95 SB,3617496783,-1151778263,Bugatti
+162_2_210,US-95 SB,3617528679,-1151725632,Bugatti
+166_1_210,US-95 SB,3617577796,-1151671777,Bugatti
+168_2_196,US-95 SB,3617508266,-1151612307,Bugatti
+172_1_51,US-95 SB,3617433553,-1151562422,Bugatti
+190_1_74,US-95 SB,3617477323,-11514879,Bugatti
+192_2_74,US-95 SB,3617530124,-1151466328,Bugatti
+194_1_71,US-95 SB,3617508708,-1151432875,Bugatti
+194_2_71,US-95 SB,361740767,-1151405542,Bugatti
+202_1_69,US-95 SB,3617245139,-115135266,Bugatti
+202_2_68,US-95 SB,3616996927,-1151302561,Bugatti
+202_3_67,US-95 SB,3616785232,-1151246666,Bugatti
+202_4_66,US-95 SB,361677317,-1151183153,Bugatti
+204_1_64,US-95 SB,3616778529,-1151135379,Bugatti
+204_2_62,US-95 SB,3616751389,-1151081917,Bugatti
+210_1_62,US-95 SB,3616730581,-1151019849,Bugatti
+210_2_59,US-95 SB,3616542961,-1150956729,Bugatti
+210_3_59,US-95 SB,3616158864,-1150923189,Bugatti
+212_1_276,US-95 SB,3615528784,-1150917442,Bugatti
+212_2_277,US-95 SB,3615004541,-1150916905,Bugatti
+212_3_279,US-95 SB,3614554586,-1150915184,Bugatti
+212_4_279,US-95 SB,361401365,-1150913197,Bugatti
+218_1_280,US-95 SB,3613422107,-1150903047,Bugatti
+218_2_281,US-95 SB,361298799,-1150892472,Bugatti
+218_3_282,US-95 SB,361238979,-1150848448,Bugatti
+218_4_282,US-95 SB,3611631413,-1150831077,Bugatti
+220_1_283,US-95 SB,3611064977,-1150826988,Bugatti
+220_2_287,US-95 SB,3610268889,-1150824833,Bugatti
+327_1_205,US-95 SB,361759785,-1151890694,Bugatti
+327_2_205,US-95 SB,3617495096,-1151832827,Bugatti
+329_2_198,US-95 SB,361756915,-1151938159,Bugatti
+334_2_211,US-95 SB,3617380209,-1151994988,Bugatti
+337_2_211,US-95 SB,361730219,-1152044075,Bugatti
+343_1_199,US-95 SB,3617349137,-1152103855,Bugatti
+360_1_288,US-95 SB,3609820771,-1150810296,Bugatti
+360_2_289,US-95 SB,3609367571,-11507612,Bugatti
+360_3_289,US-95 SB,3609073779,-1150713363,Bugatti
+361_1_290,US-95 SB,3608821071,-1150658986,Bugatti
+361_2_290,US-95 SB,3608743905,-1150597319,Bugatti
+361_3_292,US-95 SB,3608539392,-1150542941,Bugatti
+362_1_292,US-95 SB,3608329744,-1150501812,Bugatti
+362_2_293,US-95 SB,360813279,-1150464197,Bugatti
+362_3_295,US-95 SB,3607495996,-1150389206,Bugatti
+363_1_297,US-95 SB,3606753455,-1150344568,Bugatti
+363_2_297,US-95 SB,3606409648,-1150322979,Bugatti
+364_1_300,US-95 SB,3606099411,-1150304527,Bugatti
+364_2_301,US-95 SB,3605543511,-1150271618,Bugatti
+364_3_302,US-95 SB,3605021244,-1150246681,Bugatti
+365_2_304,US-95 SB,3604048037,-1150211152,Bugatti
+365_3_305,US-95 SB,3603478964,-1150160411,Bugatti
+366_1_307,US-95 SB,360313151,-1150122902,Bugatti
+370_1_386,US-95 SB,36009102,-1149879,Bugatti
+404_1_200,US-95 SB,3617379284,-1152257786,Bugatti
+404_2_212,US-95 SB,3617375292,-1152208585,Bugatti
+404_3_212,US-95 SB,3617365451,-115216063,Bugatti
+405_1_213,US-95 SB,3617472656,-1152422778,Bugatti
+405_2_206,US-95 SB,3617324638,-1152376942,Bugatti
+405_3_206,US-95 SB,3617347422,-1152318627,Bugatti
+406_1_219,US-95 SB,3619397256,-1152448763,Bugatti
+406_2_232,US-95 SB,3618897123,-1152448348,Bugatti
+406_3_232,US-95 SB,3618321296,-1152447435,Bugatti
+406_4_218,US-95 SB,3617806127,-115244479,Bugatti
+407_1_226,US-95 SB,362070305,-1152451336,Bugatti
+407_2_226,US-95 SB,3620268771,-1152448202,Bugatti
+407_3_233,US-95 SB,3619742076,-1152447516,Bugatti
+408_1_227,US-95 SB,3622116932,-1152471412,Bugatti
+408_2_220,US-95 SB,3621505547,-1152468885,Bugatti
+408_3_226,US-95 SB,3621176979,-1152463185,Bugatti
+409_1_221,US-95 SB,3623360895,-1152471936,Bugatti
+409_2_221,US-95 SB,3622978427,-1152471912,Bugatti
+409_3_221,US-95 SB,3622600934,-1152470978,Bugatti
+410_1_235,US-95 SB,3624838416,-1152469843,Bugatti
+410_2_235,US-95 SB,3624458907,-115247144,Bugatti
+410_3_228,US-95 SB,3623864695,-1152471132,Bugatti
+411_1_229,US-95 SB,3626154574,-1152527254,Bugatti
+411_2_222,US-95 SB,3625739602,-1152489585,Bugatti
+411_3_222,US-95 SB,3625304904,-1152470121,Bugatti
+706_1_732,US-95 SB,359333,-1148398,Bugatti

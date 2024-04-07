@@ -1,0 +1,30 @@
+K=8, L=3, SE_file='./data/SE_x26_15min_intSE.txt', batch_size=1024, d=8, decay_epoch=10, learning_rate=0.01, log_file='./data/log_Speed_x26_15min_MISSING_VALUES_intSE.txt', max_epoch=1, model_file='./data/model_Speed_x26_15min_MISSING_VALUES_intSE.pt', num_his=20, num_pred=4, patience=5, test_ratio=0.5, time_slot=15, time_stamp='./data/flow_timestamps_test.csv', train_file='./data/speedx26_train_with_missing_values.csv', train_ratio=1, val_ratio=0.5, val_test_file='./data/speedx26_val_test_with_missing_values.csv'
+loading data...
+trainX: torch.Size([35017, 20, 26])		 trainY: torch.Size([35017, 4, 26])
+valX:   torch.Size([17497, 20, 26])		valY:   torch.Size([17497, 4, 26])
+testX:   torch.Size([17497, 20, 26])		testY:   torch.Size([17497, 4, 26])
+mean:   55.8419		std:   23.3868
+data loaded!
+compiling model...
+trainable parameters: 513,795
+**** training model ****
+2024-04-03 18:44:07 | epoch: 0001/1, training time: 2584.9s, inference time: 250.4s
+train loss: 353.5885, val_loss: 328.7060
+val loss decrease from inf to 328.7060, saving model to ./data/model_Speed_x26_15min_MISSING_VALUES_intSE.pt
+Training and validation are completed, and model has been stored as ./data/model_Speed_x26_15min_MISSING_VALUES_intSE.pt
+**** testing model ****
+loading model from ./data/model_Speed_x26_15min_MISSING_VALUES_intSE.pt
+model restored!
+evaluating...
+testing time: 352.6s
+                MAE		RMSE		MAPE
+train            12.28		18.11		-387.81%
+val              12.23		18.13		-386.24%
+test             12.32		18.10		-389.46%
+performance in each prediction step
+step: 01         12.20		17.96		-388.70%
+step: 02         12.28		18.05		-389.23%
+step: 03         12.36		18.14		-389.70%
+step: 04         12.44		18.24		-390.22%
+average:         12.32		18.10		-389.46%
+total time: 68.7min

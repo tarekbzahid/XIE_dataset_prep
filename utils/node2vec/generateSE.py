@@ -11,8 +11,8 @@ walk_length = 80
 dimensions = 64
 window_size = 10
 iter = 1000
-Adj_file = 'E:/xie/Sensor Files/5. dataset/full mice impute/I15 NB ignore all/I-15_NB_edge_list.txt'
-SE_file = 'E:/xie/Sensor Files/5. dataset/full mice impute/I15 NB ignore all/I-15_NB_SE.txt'
+Adj_file = 'E:/xie/Sensor Files/5. dataset/I15 SB - only freeway/I-15_SB_edge_list.txt'
+SE_file = 'E:/xie/Sensor Files/5. dataset/I15 SB - only freeway/I-15_SB_SE.txt'
 
 def read_graph(edgelist):
     G = nx.read_edgelist(

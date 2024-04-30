@@ -47,3 +47,4 @@ adj_directories = ['E:/xie/Sensor Files/5. dataset/215 WB',
                    'E:/xie/Sensor Files/5. dataset/215 EB',
                   ]
 process_adj_directories(adj_directories)
+

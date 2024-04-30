@@ -43,10 +43,7 @@ def generate_embeddings(adj_file, output_file):
     print(f"Embeddings generated and saved as {output_file}")
 
 # Example usage:
-adj_directories = ['E:/xie/Sensor Files/5. dataset/215 NB', 
-                   'E:/xie/Sensor Files/5. dataset/215 SB',
-                   'E:/xie/Sensor Files/5. dataset/515 NB',
-                   'E:/xie/Sensor Files/5. dataset/515 SB',
-                   'E:/xie/Sensor Files/5. dataset/US-95 NB',
-                    'E:/xie/Sensor Files/5. dataset/US-95 SB']
+adj_directories = ['E:/xie/Sensor Files/5. dataset/215 WB', 
+                   'E:/xie/Sensor Files/5. dataset/215 EB',
+                  ]
 process_adj_directories(adj_directories)
